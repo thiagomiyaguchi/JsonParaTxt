@@ -6,7 +6,7 @@ using System.Text.Json;
 
 using (HttpClient client = new HttpClient())
 {
-    Console.Write("Pressione uma tecla para gerar um arquivo TXT com uma frase dita pelo Sr. Kanye West");
+    Console.Write("Pressione uma tecla para gerar um arquivo TXT com uma frase dita por Kanye West");
     Console.ReadKey();
     try
     {
